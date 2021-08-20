@@ -1,5 +1,7 @@
 Website sederhana menggunakan Framework Boostrap 4
 (Display Only)
 
+Setelah Repository di Download dan di ekstrak, buka index.html untuk melihat halaman web.
+
 Built by Ibrahim Afrado.
 Thanks to Mr.Sandhika Galih (Web Programming UNPAS).
